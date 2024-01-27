@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleIdentifier</key>
+	<string>org.sil.ukelele.keyboardlayout.rus</string>
+	<key>CFBundleName</key>
+	<string>RUS</string>
+	<key>CFBundleVersion</key>
+	<string></string>
+	<key>KLInfo_РУС</key>
+	<dict>
+		<key>TICapsLockLanguageSwitchCapable</key>
+		<false/>
+		<key>TISIconIsTemplate</key>
+		<true/>
+		<key>TISInputSourceID</key>
+		<string>org.sil.ukelele.keyboardlayout.rus.рус</string>
+		<key>TISIntendedLanguage</key>
+		<string>ru-RU-luna1918</string>
+	</dict>
+</dict>
+</plist>
